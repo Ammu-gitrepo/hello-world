@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter Your Age" name="Age" id="Age" required>
     <br>
     
-    <label for="mobile"><b>Enter your mobile Number</b></label>
+    <label for="mobile"><b>Enter Your Mobile Number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
