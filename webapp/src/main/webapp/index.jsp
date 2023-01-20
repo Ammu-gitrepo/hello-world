@@ -29,7 +29,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By Creating an Account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By Creating an Account You agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
